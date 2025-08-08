@@ -69,4 +69,4 @@ The app connects with backend services and IoT modules installed in buses.
 
 ```bash
 git clone https://github.com/yourusername/spts-user-app.git
-cd spts-user-app
+cd smtp
